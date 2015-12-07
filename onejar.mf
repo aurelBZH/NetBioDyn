@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Main-Class: com.simontuffs.onejar.Boot
+Class-Path: lib/AbsoluteLayout.jar lib/gluegen-rt.jar lib/gluegen.jar lib/hamcrest-core-1.3.jar lib/jcommon-1.0.23.jar lib/jfreechart-1.0.19.jar lib/jfreesvg-2.0.jar lib/jogl-all.jar lib/junit-4.11.jar lib/swtgraphics2d.jar
+One-Jar-Main-Class: netbiodyn.Main
+
